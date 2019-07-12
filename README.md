@@ -1,6 +1,6 @@
 # Visualising_DataSaturation_inUPM
 
-In geosciences, spatial data are frequently used in modelling the physical processes that vary in space. The past few decades have seen an exponential increase in the availability of geospatial data. However, there is a computational cost associated with data mining from big volume of data.  Also, not all data comes free as some high-quality datasets are expensive owing to the cost intensive data collection techniques. In both situations, knowing how much data is enough, could save time and money.  Unfortunately, it is not usually clear if the amount of available data is enough to extract the desired information. In this study, we address the critical question of “how much data is enough” from the view point of visualizing a spatial process. Using information theory, we define a parameter which measures the incremental information gain as maps are updated with new data over time.  Data saturation happens the proposed parameter approaches zero, which means that no more spatial information is getting added to the maps and we can stop updating the maps. 
+The codes available here can be used to measure data saturation as maps are updated with addition of new data. As a mapping tool, UPM is used. 
 
 # Citation
 
@@ -10,11 +10,11 @@ Chakraborty, A., & Goto, H. (2018). A Bayesian model reflecting uncertainties on
 
 # Requirements
 
-1) R 
+1. R 
 
 Download R from here: https://www.r-project.org/
 
-(2) WinBUGS
+2. WinBUGS
 
 Download WinBUGS from here: https://www.mrc-bsu.cam.ac.uk/software/bugs/the-bugs-project-winbugs/
 
