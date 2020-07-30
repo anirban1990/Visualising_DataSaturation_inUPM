@@ -4,9 +4,12 @@ The codes available here can be used to measure data saturation as maps are upda
 
 # Citation
 
-The publication is in submission. In the meantime, please make a citation to 
+1. Chakraborty, A., & Goto, H. (2020).Visualizing data saturation process in mapping site amplification of earthquake ground motions. Journal of Natural Disaster Science, 40(2), 14-25.
+https://doi.org/10.2328/jnds.40.14 
 
-Chakraborty, A., & Goto, H. (2018). A Bayesian model reflecting uncertainties on map resolutions with application to the study of site response variation. Geophysical Journal International, 214(3), 2264-2276.
+
+2. Chakraborty, A., & Goto, H. (2018). A Bayesian model reflecting uncertainties on map resolutions with application to the study of site response variation. Geophysical Journal International, 214(3), 2264-2276.
+https://doi.org/10.1093/gji/ggy260 
 
 # Requirements
 
